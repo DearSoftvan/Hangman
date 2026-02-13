@@ -2,6 +2,10 @@
 
 int hangman(char[] text,int lenght)
 {
+int score = 0;
+int guessLimit;
+
+return 155;
 }
 
 
@@ -11,4 +15,6 @@ int hangman(char[] text,int lenght)
 
 int main()
 {
+return 155;
 }
+
